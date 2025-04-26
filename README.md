@@ -1,9 +1,9 @@
 # Data Science and Machine Learning using Python
 
-## 📌 Overview
+##  Overview
 This repository is a comprehensive guide to **Data Science and Machine Learning** using Python. It contains Jupyter notebooks, datasets, and implementation of various machine learning algorithms and data analysis techniques.
 
-## 🚀 Features
+## Features
 - Data Preprocessing and Cleaning
 - Exploratory Data Analysis (EDA)
 - Supervised Learning (Regression & Classification)
@@ -13,7 +13,7 @@ This repository is a comprehensive guide to **Data Science and Machine Learning*
 - Deep Learning with TensorFlow & PyTorch
 - Real-world Projects & Case Studies
 
-## 🛠️ Installation
+##  Installation
 To get started, clone the repository and install the required dependencies:
 
 ```sh
@@ -29,14 +29,14 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📚 Dependencies
+##  Dependencies
 Ensure you have the following Python libraries installed:
 
 ```sh
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow torch jupyter
 ```
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 📁 DataScience-ML-Python
 │── 📂 data              # Datasets used in projects
